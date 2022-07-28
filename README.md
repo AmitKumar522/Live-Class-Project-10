@@ -1,6 +1,6 @@
 # Live-Class-Project-10
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d3a50aea-30f5-4076-90ba-15562c565f4c/deploy-status)](https://app.netlify.com/sites/eloquent-cray-05d050/deploys)
+
 # LIVE-CLASS-PROJECT HTML/ CSS ![]("")
 By Amit Kumar
 
