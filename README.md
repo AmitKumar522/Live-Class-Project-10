@@ -16,3 +16,10 @@ By Amit Kumar
 - It almost take's one day to understand and build this beautiful landing page.
  ## Screenshots
  [](https://live-class-project-10.netlify.app)
+ 
+ 
+ ## Badge ##
+
+![Badge](https://img.shields.io/badge/Project---10-orange)
+
+
