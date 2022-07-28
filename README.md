@@ -4,7 +4,7 @@
 # LIVE-CLASS-PROJECT HTML/ CSS ![]("")
 By Amit Kumar
 
-#### What I have learnt in this project:
+#### What I have learnt in this project: ##
 -This project takes research and learn the new method and build this project. 
 - This project helps me to understand different types of  child,navbar, flex and also about positions.
 - This project helps me how to build a beautiful website/Landing Page.
