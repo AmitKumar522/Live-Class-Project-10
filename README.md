@@ -11,11 +11,12 @@ By Amit Kumar
 - It helps me to build confidence.
 - Thanks to (HITESH SIR), who gave me this project.
 
-![Live link for the project-10](https://live-class-project-10.netlify.app)
+[Live link for the project-10](https://live-class-project-10.netlify.app)
+
 #### Honest time to finish this project;
 - It almost take's one day to understand and build this beautiful landing page.
  ## Screenshots
- [](https://live-class-project-10.netlify.app)
+ [](https://mega.nz/file/xxEg1DCB#1JugqJM_6ma61SseBNYNx8CQvIsurIX0PEJwEOsBalM)
  
  
  ## Badge ##
